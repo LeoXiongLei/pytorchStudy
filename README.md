@@ -1,2 +1,1 @@
-# pytorchStudy
-动手深度学习pytorch
+# Dive_into_DeepLearning
